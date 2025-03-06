@@ -1,4 +1,4 @@
-# Library Management System - Md Zunaid Hassan
+# Book Store Management System - Md Zunaid Hassan
 **Course:** Ostad Full Stack Web Development with Python, Django & React 
 
 **Assignment 1**: Book Store Management System
